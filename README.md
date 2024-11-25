@@ -19,7 +19,6 @@ cd NeuroSynth_Opto
 - Install necessary Python packages:
 bash ``
 pip install matplotlib
-
 ``
 ## License
 
